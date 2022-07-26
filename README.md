@@ -1,2 +1,2 @@
 # grid-basic
-Landing de práctica curso css grid básico
+Landing de práctica Curso CSS Grid Básico - Platzi
